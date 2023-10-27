@@ -23,4 +23,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   [NodeJS](https://nodejs.org/en/)
 -   [Typescript](https://www.typescriptlang.org/)
+-   [Express](https://expressjs.com/pt-br/)
 -   [VSCode](https://code.visualstudio.com/)

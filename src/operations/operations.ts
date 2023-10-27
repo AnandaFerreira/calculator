@@ -16,6 +16,6 @@ export class Operations {
 
   division(firstNumber: number, secondNumber: number) {
     const divisionResult = firstNumber / secondNumber
-    return divisionResult
+    return divisionResult.toFixed(2)
   }
 }
