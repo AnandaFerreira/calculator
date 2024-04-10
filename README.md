@@ -1,6 +1,6 @@
 # Calculator
 
-"Basic Calculator" é um projeto de uma calculadora com suas operações básicas (Adição, Subtração, Multiplicação e Divisão).
+"Basic Calculator" é um projeto de uma calculadora com suas operações básicas.
 
 ### Rodando Calculator Localmente
 
